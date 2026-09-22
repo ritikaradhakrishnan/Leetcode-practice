@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
