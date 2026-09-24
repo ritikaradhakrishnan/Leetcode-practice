@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
