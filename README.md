@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
