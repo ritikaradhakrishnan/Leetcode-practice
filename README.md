@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0567-permutation-in-string) |
+| [3026-maximum-good-subarray-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
+| [3026-maximum-good-subarray-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
 <!---LeetCode Topics End-->
