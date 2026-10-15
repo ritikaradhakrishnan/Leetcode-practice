@@ -20,7 +20,9 @@ class Solution:
 
 
 
-
+# #Python evaluates the entire right-hand side first before assigning anything to the left-hand side:
+# Read phase: Python looks up the current objects pointed to by root.right and root.left and holds both references in memory.
+# Write phase: Python unpacks those saved references and assigns them from left to right into root.left and root.right.
 
 
 #The time complexity of the invertTree function is O(n), where n is the number of nodes in the binary tree. This is because the function visits each node once, and for each node, it performs a constant amount of work (swapping the left and right children). Therefore, the time complexity is linear with respect to the number of nodes.
