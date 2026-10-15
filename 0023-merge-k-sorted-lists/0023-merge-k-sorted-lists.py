@@ -1,3 +1,6 @@
+# lists = [l1, l2, l3, l4, l5] -> newList = [newL1, newL2, l5] after every pass
+# lists = newList so that we cna work on this new merged till len(lists) > 1
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
