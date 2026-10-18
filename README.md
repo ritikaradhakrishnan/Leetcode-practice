@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
 | [3026-maximum-good-subarray-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -152,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
