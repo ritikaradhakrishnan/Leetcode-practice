@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0322-coin-change) |
+| [0739-daily-temperatures](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [3026-maximum-good-subarray-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
 ## Binary Search
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
