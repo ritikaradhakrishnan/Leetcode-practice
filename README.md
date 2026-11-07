@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
@@ -232,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
