@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
