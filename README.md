@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritikaradhakrishnan/Leetcode-practice/tree/master/0567-permutation-in-string) |
